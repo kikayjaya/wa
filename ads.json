@@ -24,7 +24,7 @@
   ],
   "ads": [
     {
-      "ad_status": 0,
+      "ad_status": 1,
       "ad_type": "yandex",
       "backup_ads": "none",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -55,9 +55,9 @@
       "ironsource_banner_placement_name": "DefaultBanner",
       "ironsource_interstitial_placement_name": "DefaultInterstitial",
       "yandex_app_id": "test-app-id",
-      "yandex_banner_unit_id": "R-M-12018664-1",
-      "yandex_interstitial_unit_id": "R-M-12018664-2",
-      "yandex_native_unit_id": "R-M-12018664-3",
+      "yandex_banner_unit_id": "demo-banner-yandex",
+      "yandex_interstitial_unit_id": "demo-interstitial-yandex",
+      "yandex_native_unit_id": "demo-native-content-yandex",
       "yandex_app_open_unit_id": "test-app-open",
       "mopub_banner_ad_unit_id": 0,
       "mopub_interstitial_ad_unit_id": 0,
