@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "ytdl-core": "^4.11.1"
+    "ytdl-core": "^4.11.1",
+    "express": "^4.17.1"
   }
 }
